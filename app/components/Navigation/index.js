@@ -1,18 +1,16 @@
 /**
-*
-* Navigation
-*
-*/
+ *
+ * Navigation
+ *
+ */
 
-import React from 'react';
+import React from "react";
 
-
-import styles from './styles.css';
+import styles from "./styles.css";
 
 function Navigation() {
   return (
-    <div className={styles.navigation}>
-    </div>
+    <div className={styles.navigation}>This is the navigation component</div>
   );
 }
 
